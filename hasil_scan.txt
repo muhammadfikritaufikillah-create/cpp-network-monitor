@@ -1,0 +1,13 @@
+================================
+      NETWORK SCAN RESULTS      
+================================
+Target: 192.168.1.1
+Total port diperiksa: 5
+--------------------------------
+[OPEN]   Port 80 - HTTP
+[OPEN]   Port 443 - HTTPS
+[CLOSED] Port 22 - SSH
+[CLOSED] Port 21 - FTP
+[OPEN]   Port 3306 - MySQL
+--------------------------------
+Total open: 3

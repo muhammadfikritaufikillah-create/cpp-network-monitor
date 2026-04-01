@@ -1,0 +1,91 @@
+================================================
+         NETWORK MONITOR - SCAN RESULTS         
+================================================
+Scan Type : portscan
+Target    : 999.999.999.999
+Time      : 2026-03-31 10:24:08
+------------------------------------------------
+[OPEN]   Port 20	- Unknown
+[OPEN]   Port 21	- FTP
+[OPEN]   Port 22	- SSH
+[OPEN]   Port 23	- Telnet
+[OPEN]   Port 24	- Unknown
+[CLOSED] Port 25	- SMTP
+[OPEN]   Port 26	- Unknown
+[OPEN]   Port 27	- Unknown
+[OPEN]   Port 28	- Unknown
+[OPEN]   Port 29	- Unknown
+[OPEN]   Port 30	- Unknown
+[OPEN]   Port 31	- Unknown
+[OPEN]   Port 32	- Unknown
+[OPEN]   Port 33	- Unknown
+[OPEN]   Port 34	- Unknown
+[OPEN]   Port 35	- Unknown
+[OPEN]   Port 36	- Unknown
+[OPEN]   Port 37	- Unknown
+[OPEN]   Port 38	- Unknown
+[OPEN]   Port 39	- Unknown
+[OPEN]   Port 40	- Unknown
+[OPEN]   Port 41	- Unknown
+[OPEN]   Port 42	- Unknown
+[OPEN]   Port 43	- Unknown
+[OPEN]   Port 44	- Unknown
+[OPEN]   Port 45	- Unknown
+[OPEN]   Port 46	- Unknown
+[OPEN]   Port 47	- Unknown
+[OPEN]   Port 48	- Unknown
+[OPEN]   Port 49	- Unknown
+[OPEN]   Port 50	- Unknown
+[OPEN]   Port 51	- Unknown
+[OPEN]   Port 52	- Unknown
+[OPEN]   Port 53	- DNS
+[OPEN]   Port 54	- Unknown
+[OPEN]   Port 55	- Unknown
+[OPEN]   Port 56	- Unknown
+[OPEN]   Port 57	- Unknown
+[OPEN]   Port 58	- Unknown
+[OPEN]   Port 59	- Unknown
+[OPEN]   Port 60	- Unknown
+[OPEN]   Port 61	- Unknown
+[OPEN]   Port 62	- Unknown
+[OPEN]   Port 63	- Unknown
+[OPEN]   Port 64	- Unknown
+[OPEN]   Port 65	- Unknown
+[OPEN]   Port 66	- Unknown
+[OPEN]   Port 67	- Unknown
+[OPEN]   Port 68	- Unknown
+[OPEN]   Port 69	- Unknown
+[OPEN]   Port 70	- Unknown
+[OPEN]   Port 71	- Unknown
+[OPEN]   Port 72	- Unknown
+[OPEN]   Port 73	- Unknown
+[OPEN]   Port 74	- Unknown
+[OPEN]   Port 75	- Unknown
+[OPEN]   Port 76	- Unknown
+[OPEN]   Port 77	- Unknown
+[OPEN]   Port 78	- Unknown
+[OPEN]   Port 79	- Unknown
+[OPEN]   Port 80	- HTTP
+[OPEN]   Port 81	- Unknown
+[OPEN]   Port 82	- Unknown
+[OPEN]   Port 83	- Unknown
+[OPEN]   Port 84	- Unknown
+[OPEN]   Port 85	- Unknown
+[OPEN]   Port 86	- Unknown
+[OPEN]   Port 87	- Unknown
+[OPEN]   Port 88	- Unknown
+[OPEN]   Port 89	- Unknown
+[OPEN]   Port 90	- Unknown
+[OPEN]   Port 91	- Unknown
+[OPEN]   Port 92	- Unknown
+[OPEN]   Port 93	- Unknown
+[OPEN]   Port 94	- Unknown
+[OPEN]   Port 95	- Unknown
+[OPEN]   Port 96	- Unknown
+[OPEN]   Port 97	- Unknown
+[OPEN]   Port 98	- Unknown
+[OPEN]   Port 99	- Unknown
+[OPEN]   Port 100	- Unknown
+------------------------------------------------
+Total open  : 80
+Total scan  : 81

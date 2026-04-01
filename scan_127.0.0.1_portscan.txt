@@ -1,0 +1,91 @@
+================================================
+         NETWORK MONITOR - SCAN RESULTS         
+================================================
+Scan Type : portscan
+Target    : 127.0.0.1
+Time      : 2026-03-30 17:25:34
+------------------------------------------------
+[CLOSED] Port 20	- Unknown
+[CLOSED] Port 21	- FTP
+[CLOSED] Port 22	- SSH
+[CLOSED] Port 23	- Telnet
+[CLOSED] Port 24	- Unknown
+[CLOSED] Port 25	- SMTP
+[CLOSED] Port 26	- Unknown
+[CLOSED] Port 27	- Unknown
+[CLOSED] Port 28	- Unknown
+[CLOSED] Port 29	- Unknown
+[CLOSED] Port 30	- Unknown
+[CLOSED] Port 31	- Unknown
+[CLOSED] Port 32	- Unknown
+[CLOSED] Port 33	- Unknown
+[CLOSED] Port 34	- Unknown
+[CLOSED] Port 35	- Unknown
+[CLOSED] Port 36	- Unknown
+[CLOSED] Port 37	- Unknown
+[CLOSED] Port 38	- Unknown
+[CLOSED] Port 39	- Unknown
+[CLOSED] Port 40	- Unknown
+[CLOSED] Port 41	- Unknown
+[CLOSED] Port 42	- Unknown
+[CLOSED] Port 43	- Unknown
+[CLOSED] Port 44	- Unknown
+[CLOSED] Port 45	- Unknown
+[CLOSED] Port 46	- Unknown
+[CLOSED] Port 47	- Unknown
+[CLOSED] Port 48	- Unknown
+[CLOSED] Port 49	- Unknown
+[CLOSED] Port 50	- Unknown
+[CLOSED] Port 51	- Unknown
+[CLOSED] Port 52	- Unknown
+[CLOSED] Port 53	- DNS
+[CLOSED] Port 54	- Unknown
+[CLOSED] Port 55	- Unknown
+[CLOSED] Port 56	- Unknown
+[CLOSED] Port 57	- Unknown
+[CLOSED] Port 58	- Unknown
+[CLOSED] Port 59	- Unknown
+[CLOSED] Port 60	- Unknown
+[CLOSED] Port 61	- Unknown
+[CLOSED] Port 62	- Unknown
+[CLOSED] Port 63	- Unknown
+[CLOSED] Port 64	- Unknown
+[CLOSED] Port 65	- Unknown
+[CLOSED] Port 66	- Unknown
+[CLOSED] Port 67	- Unknown
+[CLOSED] Port 68	- Unknown
+[CLOSED] Port 69	- Unknown
+[CLOSED] Port 70	- Unknown
+[CLOSED] Port 71	- Unknown
+[CLOSED] Port 72	- Unknown
+[CLOSED] Port 73	- Unknown
+[CLOSED] Port 74	- Unknown
+[CLOSED] Port 75	- Unknown
+[CLOSED] Port 76	- Unknown
+[CLOSED] Port 77	- Unknown
+[CLOSED] Port 78	- Unknown
+[CLOSED] Port 79	- Unknown
+[CLOSED] Port 80	- HTTP
+[CLOSED] Port 81	- Unknown
+[CLOSED] Port 82	- Unknown
+[CLOSED] Port 83	- Unknown
+[CLOSED] Port 84	- Unknown
+[CLOSED] Port 85	- Unknown
+[CLOSED] Port 86	- Unknown
+[CLOSED] Port 87	- Unknown
+[CLOSED] Port 88	- Unknown
+[CLOSED] Port 89	- Unknown
+[CLOSED] Port 90	- Unknown
+[CLOSED] Port 91	- Unknown
+[CLOSED] Port 92	- Unknown
+[CLOSED] Port 93	- Unknown
+[CLOSED] Port 94	- Unknown
+[CLOSED] Port 95	- Unknown
+[CLOSED] Port 96	- Unknown
+[CLOSED] Port 97	- Unknown
+[CLOSED] Port 98	- Unknown
+[CLOSED] Port 99	- Unknown
+[CLOSED] Port 100	- Unknown
+------------------------------------------------
+Total open  : 0
+Total scan  : 81

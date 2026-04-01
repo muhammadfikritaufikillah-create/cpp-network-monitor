@@ -1,0 +1,30 @@
+================================================
+         NETWORK MONITOR v2.1 - SCAN RESULTS    
+================================================
+Scan Type : quickscan
+Target    : 127.0.0.1
+Time      : 2026-04-01 07:25:26
+------------------------------------------------
+[CLOSED] Port 21	- FTP
+[CLOSED] Port 22	- SSH
+[CLOSED] Port 23	- Telnet
+[CLOSED] Port 25	- SMTP
+[CLOSED] Port 53	- DNS
+[CLOSED] Port 80	- HTTP
+[CLOSED] Port 110	- POP3
+[CLOSED] Port 135	- RPC
+[CLOSED] Port 139	- NetBIOS
+[CLOSED] Port 143	- IMAP
+[CLOSED] Port 443	- HTTPS
+[CLOSED] Port 445	- SMB
+[CLOSED] Port 3306	- MySQL
+[CLOSED] Port 3389	- RDP
+[CLOSED] Port 5432	- PostgreSQL
+[CLOSED] Port 6379	- Redis
+[CLOSED] Port 8080	- HTTP-Alt
+[CLOSED] Port 8443	- HTTPS-Alt
+[CLOSED] Port 8888	- Unknown
+[CLOSED] Port 9090	- Unknown
+------------------------------------------------
+Total open  : 0
+Total scan  : 20
